@@ -13,5 +13,5 @@ $locale_languages = array(
 	'it'    => 	'Italiano',
 	'no'	=>	'Norsk',
 	'ru'    =>  'Русский',
-	'tl_PH' =>  'Taglog (Philippines)',
+	'tl_PH' =>  'Tagalog (Philippines)',
 );
